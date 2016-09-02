@@ -51,5 +51,5 @@ Communication will take place over the team Slack channel and Facebook group. Sl
                         
 ## Tags ##
 
-Social and Mobile: Conversation (informal), Collaboration, Context, Asynchronous distributed interaction, Awareness
-Journalism: Immediacy (from Skye lecture), Autonomy
+*Social and Mobile*: Conversation (informal), Collaboration, Context, Asynchronous distributed interaction, Awareness
+*Journalism*: Immediacy (from Skye lecture), Autonomy
