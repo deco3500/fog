@@ -1,4 +1,3 @@
-# fog
 ## Introduction ##
 
 Current social media is filled with pictures of food and recommendations with no direction or organisation, our aim is to move this content to a dedicated service. Foodle is a social mobile application that merges food and friends, while tailoring the content to users wants. Foodle is unique for utilising the user’s location to determine restaurants nearby that they would like. 
