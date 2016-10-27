@@ -126,6 +126,17 @@ p {
   border: 20px solid #000000;
 }
 
+.foodle {
+  right: 120px;
+  top: 2400px;
+  width: 300px;
+  height: 600px;
+  max-width: 40%;
+  vertical-align: middle;
+  position: absolute;
+
+}
+
 .solution {
   max-width: 50%;
   float: right;
@@ -134,7 +145,8 @@ p {
 }
 
 .testimony {
-  padding-top: 60px;
+  padding: 60px 0px 0px 50px;
+  max-width: 60%;
 }
 
 .buynow {
@@ -184,6 +196,6 @@ p {
 #slide4{
   background-color: #fff;
   color: #333333;
-  height: 600px;
-  padding: 70px 0;
+  height: 1000px;
+  padding: 100px 0;
 }
