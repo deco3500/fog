@@ -90,4 +90,4 @@ The final prototype was designed based on feedback from the high-fidelity user t
 - Documentation of low-fidelity prototype
 - Design of high-fidelity prototype
 
-__The Project Plan can be found in the wiki
+_The Project Plan can be found in the wiki_
