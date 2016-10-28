@@ -2,6 +2,9 @@
 https://deco3500.github.io/fog/
 
 #PROTOTYPE#
+
+https://github.com/deco3500/fog/blob/master/prototype/foodle.mp
+
 The prototype of Foodle is located in the prototype folder of the fog repository. The prototype is called foodle.mp and is a mockplus file. This means that to view the prototype with all its interaction features, you will need to download Mockplus (a free software http://www.mockplus.com/download). Once downloaded, open the foodle.mp file in Mockplus and select the login page on the right side of the software. You can then click the play button at the top of the screen. This will start the prototype preview display. You can now interact with the prototype like you would a normal app.
 
 ![](http://i86.photobucket.com/albums/k88/elloiseprz/Screen%20Shot%202016-10-28%20at%2010.05.57%20am_zpsbaahjera.png)
