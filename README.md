@@ -4,8 +4,10 @@ https://deco3500.github.io/fog/
 #PROTOTYPE#
 The prototype of Foodle is located in the prototype folder of the fog repository. The prototype is called foodle.mp and is a mockplus file. This means that to view the prototype with all its interaction features, you will need to download Mockplus (a free software http://www.mockplus.com/download). Once downloaded, open the foodle.mp file in Mockplus and select the login page on the right side of the software. You can then click the play button at the top of the screen. This will start the prototype preview display. You can now interact with the prototype like you would a normal app.
 
+![](http://i86.photobucket.com/albums/k88/elloiseprz/Screen%20Shot%202016-10-28%20at%2010.05.57%20am_zpsbaahjera.png)
+
 #SUMMARY#
-Useful and purposeful food news posts on social media do not exist. Readers are simply provided with generic or irrelevant information. Why does a reader who is dieting and located in Brisbane want to see a delicious chocolate milkshake with extra marshmallows, chocolate sauce and snickers made in a café in Melbourne?
+Useful and purposeful food news posts on social media do not exist. Readers are simply provided with generic or irrelevant information. Why does a reader who is dieting and located in Brisbane want to see a delicious chocolate milkshake with extra marshmallows, chocolate sauce and snickers made in a café in Melbourne?
  
 Today's communication and planning is enacted through social media. Yet there is no technology that allows friends and family to easily search, plan and communicate food news. Users need a dedicated service that can tailor content to their specific needs and wants, thus, providing users with relevant and ongoing food information.
  
@@ -26,6 +28,9 @@ Once we had researched the current state of the market, we brainstormed the feat
  
 Next we collated our ideas into a paper prototype of the design. This included two versions of the home page, a favourites page, a settings page, a profile page, and a tables page.
  
+ ![](http://i86.photobucket.com/albums/k88/elloiseprz/14881552_10210928572559552_2091652126_o_zpskhcsq6nw.jpg)
+ ![](http://i86.photobucket.com/albums/k88/elloiseprz/14825820_10210928621600778_1581519771_n_zpsndjig6b1.jpg)
+ 
 We then designed user testing for the paper prototype. To organise this we wrote a test plan including a consent form for the participants. As we were mostly interested in the design and ease of use, we wrote a questionnaire to walk through the different features and pages of the app. We tested 5 people of ages varying between 19 and 58. We wrote the participants answers to the questionnaire questions in a google form to easily analyse the data.
  
 https://goo.gl/forms/6dkIaw0BTnFd0IJK2
@@ -35,12 +40,20 @@ All of the users found the app easy to browse, navigate and understand, and 80% 
 ##LOW-FIDELITY USER TESTING##
 From the paper prototyping results we designed a low-fidelity prototype using Photoshop that was then implemented using MockPlus. Examples of the designs are below.
 
+![](http://i86.photobucket.com/albums/k88/elloiseprz/search_page2_zpsmgdbuvzg.png)
+![](http://i86.photobucket.com/albums/k88/elloiseprz/profile_page_zpssw2bzk5c.png)
+![](http://i86.photobucket.com/albums/k88/elloiseprz/settings_zps1cgu9q58.png)
+
 We ran five different users through a cognitive walkthrough that allowed them to explore Foodle for themselves. After the walkthrough, a discussion with each user was conducted in which their opinions about the design and implementation of Foodle were recorded.
  
 All the users liked the idea of Foodle, and liked the scroll feature on the home page. Some users liked the idea of having a ‘table’, while some found it ‘cliché’. Regarding functionality, all the users agreed that the favourites page needed to have larger pictures to fill the whole screen and the colour scheme needed to be altered to fit in with the theme of the app. Although most users found the search page aesthetically pleasing and easy to navigate, one user thought the page had too much dark green. Furthermore, the friend’s page was found to be too bland, especially compared to the other pages of the app. Additionally, users commented that the app was too block-like in some places.
 
 ##HIGH-FIDELITY USER TESTING##
 We redesigned the app based on the feedback from low-fidelity user testing. This time we focused more on testing the design and specific functionality of the application because of the feedback received in previous iterations. Examples of the designs are below.
+
+![](http://i86.photobucket.com/albums/k88/elloiseprz/profile_page1_zpswe5degkc.png)
+![](http://i86.photobucket.com/albums/k88/elloiseprz/favourites1_zpsetjuts4g.png)
+![](http://i86.photobucket.com/albums/k88/elloiseprz/search-01_zps8qlers6a.png)
  
 For this iteration of testing, we re-tested the users from the paper prototyping session. This enabled us to get an insight from users who had previous experience with Foodle so we could see how the functions had developed. Each user was explored the prototype and was then asked to fill out a questionnaire.
  
@@ -76,3 +89,5 @@ The final prototype was designed based on feedback from the high-fidelity user t
 - User testing of low-fidelity prototype
 - Documentation of low-fidelity prototype
 - Design of high-fidelity prototype
+
+__The Project Plan can be found in the wiki
