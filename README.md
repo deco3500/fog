@@ -6,6 +6,8 @@ The prototype of Foodle is located in the prototype folder of the fog repository
 
 ![](http://i86.photobucket.com/albums/k88/elloiseprz/Screen%20Shot%202016-10-28%20at%2010.05.57%20am_zpsbaahjera.png)
 
+_Note: the prototype may not display as intended if the following fonts aren't installed on your computer: Aleo & Quicksand_
+
 #SUMMARY#
 Useful and purposeful food news posts on social media do not exist. Readers are simply provided with generic or irrelevant information. Why does a reader who is dieting and located in Brisbane want to see a delicious chocolate milkshake with extra marshmallows, chocolate sauce and snickers made in a café in Melbourne?
  
