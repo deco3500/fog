@@ -31,13 +31,13 @@ z-index: 1;
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active >
  a:hover, .navbar-default .navbar-nav > .active > a:focus {
 color: #006400; /*BACKGROUND color for active*/
-background-color: #DCDCDC;
+background-color: #000;
 font-weight: bold;
 z-index: 2;
 }
 
 .navbar-default {
-    background-color: #DCDCDC;
+    background-color: #000;
     border-color: #030033;
     z-index: 2;
 }
@@ -46,13 +46,13 @@ z-index: 2;
 .nav > li > a:hover,
 .nav > li > a:focus {
     text-decoration: none;
-    background-color: silver; /*Change rollover cell color here*/
+    background-color: #FFFFFF; /*Change rollover cell color here*/
     z-index: 2;
   }
 
 
 .navbar-default .navbar-nav > li > a {
-   color: #000000; /*Change active text color here*/
+   color: #FFFFFF; /*Change active text color here*/
    z-index: 2;
     }
 
